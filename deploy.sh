@@ -6,5 +6,5 @@ kubectl apply -f manifests/nginx-deployments.yaml
 kubectl apply -f manifests/nginx-service.yaml
 
 
-echo "deployment complete"
+echo "deployment complete!"
 
